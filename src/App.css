@@ -1,3 +1,50 @@
 .App {
   text-align: center;
+  background-size: cover;
+  background-position: center;
+  color: black;
+  font-family: helvetica;
+}
+
+#title {
+  text-align: center;
+  background-size: cover;
+  background-position: center;
+  background-color: cornflowerblue;
+  height: 40px;
+  padding: 10px;
+  font-size: medium;
+}
+
+#title1 {
+  text-align: center;
+  background-size: cover;
+  background-position: center;
+  height: 40px;
+  padding: 10px;
+  font-size: medium;
+  background-color: gainsboro;
+  height: 60px;
+  padding: 20px 0;
+}
+
+#span1 {
+  background-color: gainsboro;
+  margin-right: 10px;
+}
+
+#span2 {
+  background-color: gainsboro;
+  margin-left: 10px;
+}
+
+#cart {
+  width: 100px;
+  height: 40px;
+  margin-top: 20px;
+  margin-right: 20px;
+}
+
+#addToCart {
+  margin: -6px 0;
 }
